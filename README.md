@@ -75,7 +75,7 @@ Este projeto de demonstração inclui:
   ``` text
   ├── package.json
   ├── package-lock.json (ou yarn.lock)
-  ├── server.js         # Arquivo principal do servidor
+  ├── index.js          # Arquivo principal do servidor
   ├── schema.js         # Definição do esquema GraphQL
   └── resolvers.js      # Funções de resolução para os campos do esquema
   ```
