@@ -43,7 +43,7 @@ Este projeto de demonstração inclui:
 
 * **Esquema GraphQL:** Uma definição básica de tipos, queries e mutations.
 * **Resolvers:** Funções que fornecem os dados para cada campo no esquema GraphQL.
-* **Servidor Express:** Um servidor Express.js configurado para hospedar o endpoint GraphQL (geralmente em `/graphql`).
+* **Servidor Apollo:** Um servidor Apollo configurado para hospedar o endpoint GraphQL.
 * **GraphQL Playground:** Uma interface interativa no navegador para explorar e testar sua API GraphQL (geralmente acessível no mesmo endereço do servidor).
 
 ## Como usar
